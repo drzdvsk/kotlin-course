@@ -1,0 +1,10 @@
+# Project exclude paths
+/.allure/
+/.gradle/
+/.idea/
+/.kotlintest/
+/build/
+/allure-results/
+/out
+*.class
+*.log
