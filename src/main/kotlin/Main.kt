@@ -1,5 +1,5 @@
 package ru.drzdvsk
 
 fun main() {
-    println("Hello World!")
+    println("Hello World!!")
 }
